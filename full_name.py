@@ -1,5 +1,5 @@
 '''
-Exercise 5.a
+Exercise 5.a and 5.b
 Using Terminal, make a copy of first_name_500_times.py and call it full_name.py
 
 cp first_name_500_times.py full_name.py
